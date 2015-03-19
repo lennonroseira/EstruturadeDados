@@ -13,8 +13,8 @@ void teste (){
 	
 
 
-int main()
-{	teste();
+int main(){	
+	teste();
 	puts ("\nExemplo para lista de valores (10,40,30,5):");
 	int maior,i;
 	int num[]={10,40,30,5};
