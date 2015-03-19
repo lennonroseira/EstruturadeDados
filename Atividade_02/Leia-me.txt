@@ -1,0 +1,1 @@
+A lista 2 contempla assuntos como switch/case, if, comparacao de valores, leitura de valores do teclado, utilizacao de bibliotecas para operacaoes matematicas e utilizacao de dados do sistema.
