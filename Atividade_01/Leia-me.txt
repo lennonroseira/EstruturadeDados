@@ -1,0 +1,1 @@
+A lista 1 propoe a utilizacao de conceitos básicos de C. Criacao de funcao, execucao da mesma, variaveis locais e globais, comunicacao com usuario e uso da linguagem c para resolucao de problemas matematicos.
