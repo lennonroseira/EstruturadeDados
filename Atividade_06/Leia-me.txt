@@ -1,0 +1,4 @@
+Lista 06 - Lorena Galvão
+	   Lennon Roseira
+
+A lista contempla assuntos de revisão, como ponteiros, declarações, estruturas, funções, entre outros.
