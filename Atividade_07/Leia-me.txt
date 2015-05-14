@@ -1,0 +1,4 @@
+Lista 07 - Lennon Roseira
+	   Lorena Galvão
+
+A lista contem conceitos de Listas (Encadeada, circular, duplamente encadeada) entre outros conceitos já vistos (Estruturas, ponteiros...) 
